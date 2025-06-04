@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @t3rngu
 - 👀 I’m interested in data science to learn more and for further insight in various fields, especially in data science, deep learning, machine learning, and artificial intelligence.
-- 🌱 I’m currently doing my DBA in Data Analytics and will hopefully complete in Dec/2023.
+- 🌱 I have a doctorate degree (DBA) in Data Analytics.
 - 💞️ I’m looking to collaborate on multiple data science practices and topics, which I may specify shortly.
 - 📫 How to reach me ...
 
